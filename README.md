@@ -22,13 +22,12 @@ you can control and run needed commands to build, run, stop the docker container
 There are 5 different connections to set for this pipline
 
 - Forex API HTTP connection
-![Forex API HTTP connectio](docs/forex_api_connection.png)
+![Forex API HTTP connection](docs/forex_api_connection.png)
 
 - Forex path FTP connection
 ![Forex path FTP connection](docs/forex_path_connection.png)
 
 - Hive connection
-<img src="docs/hive_conn_connection.png" alt="drawing" width="500"/>
 ![Hive connection](docs/hive_conn_connection.png)
 
 - Spark connection
